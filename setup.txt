@@ -1,0 +1,12 @@
+//only window OS
+
+// for Clang compiler
+clang++ main.cpp -o main -ljsoncpp
+
+// for Gcc compiler
+g++ main.cpp -o main -ljsoncpp
+
+// for include new command 
+// make dll file with 
+g++ -shared file_name.cpp -o file_name.dll -include_flage_if_code_need
+clang++ -shared file_name.cpp -o file_name.dll -include_flage_if_code_need

@@ -1,0 +1,6 @@
+Clear == clear screem
+Encripet == file encript or -d decript file
+Process == give Pid and name of process is run
+Puse == puse process
+Resume == resume process
+Remove == remove file and folder

@@ -1,0 +1,56 @@
+{
+	"Clear" : 
+	{
+		"DllFilePath" : "./dllfile/Clear.dll",
+		"MinElement" : 0,
+		"Type" : 0
+	},
+	"Color" : 
+	{
+		"DllFilePath" : "./dllfile/Color.dll",
+		"MinElement" : 1,
+		"Type" : 0
+	},
+	"Dirtory" : 
+	{
+		"DllFilePath" : "./dllfile/Dirtory.dll",
+		"MinElement" : 1,
+		"Type" : 1
+	},
+	"Encripet" : 
+	{
+		"DllFilePath" : "./dllfile/Encripet.dll",
+		"MinElement" : 1,
+		"Type" : 0
+	},
+	"Print" : 
+	{
+		"DllFilePath" : "./dllfile/Print.dll",
+		"MinElement" : 1,
+		"Type" : 1
+	},
+	"Process" : 
+	{
+		"DllFilePath" : "./dllfile/Process.dll",
+		"MinElement" : 0,
+		"Type" : 0
+	},
+	"Puse" : 
+	{
+		"DllFilePath" : "./dllfile/Puse.dll",
+		"MinElement" : 1,
+		"Type" : 0
+	},
+	"Remove" : 
+	{
+		"DllFilePath" : "./dllfile/Remove.dll",
+		"MinElement" : 1,
+		"Type" : 0
+	},
+	"Resume" : 
+	{
+		"DllFilePath" : "./dllfile/Resume.dll",
+		"MinElement" : 1,
+		"Type" : 0
+	}
+}
